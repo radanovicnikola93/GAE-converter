@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: arial;
+}
+
+h1  {
+    color: red;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+
+.button:hover {
+    background-color: black;
+    color: red;
+    border: 2px solid red;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
